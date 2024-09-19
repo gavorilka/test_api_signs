@@ -1,7 +1,7 @@
 # Взаимодействие с api Visiconect
 
-Класс на node.js написаный для взаимодействия с Visionect Joan 6.
-Для работы создайте в разделe USER ключи c помошью кнопки "Add new API key"
+Класс на node.js написанный для взаимодействия с Visionect Joan 6.
+Для работы создайте в раздели USER ключи c помощью кнопки "Add new API key"
 
 ![Картинка](https://raw.githubusercontent.com/gavorilka/test_api_signs/b155cc410e3e3d0a22b6f093267e19b6564d66dd/img.jpg)
 
@@ -36,3 +36,5 @@ Start the script
 
 ```bash
   npm run dev
+```
+Планируется когда-нибудь хоть переменные в .env вынести
